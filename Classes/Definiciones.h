@@ -1,0 +1,8 @@
+#ifndef __DEFINICIONES_H__
+#define __DEFINICIONES_H__
+
+#define DISPLAY_TIME_INTRO_SCENE 3
+#define TRANSITION_TIME 0.5
+
+
+#endif // __DEFINICIONES_H__
